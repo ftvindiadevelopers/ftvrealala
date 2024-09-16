@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # If the request does not match a static file, serve index.html
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^(.*)$ /index.html [L]
+</IfModule>

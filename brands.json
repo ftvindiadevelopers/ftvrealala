@@ -1,0 +1,718 @@
+{
+  "brands": [
+    {
+      "name": "FTV Real Estate",
+      "sub": [
+        {
+          "name": "F Residences",
+          "slug": "residences/residences",
+          "slug_short": "residences",
+          "brand_details": {
+            "HeaderURLs": {
+              "HeaderImg1": "banner-1.jpg",
+              "HeaderImg2": "banner-2.jpg",
+              "HeaderImg3": "banner-3.jpg"
+            },
+            "introduction": [
+              "The world's leading fashion and lifestyle media brand introduces F Residences, an impressive collection of sky-high homes with luxurious lifestyle amenities located in the most revered neighbourhood across the nation. With highly sophisticated designs and crafty interiors, this impeccable home is an amalgamation of meticulously crafted modern lines and a palette of rich materials that reflect a story of exceptional comfort and elegance.",
+              "The interior designs are encouraged by international architectures and trending decor styles that make these luxurious homes distinct and provide a living grandiosity experience. F Residences are now a must-see, must-have attraction globally, with the F logo shadow towering over its head. F Residences is bound to redefine the idea of living a royal lifestyle for the masses in the world and is the first choice for HNIs and millennials who wish to live an opulent lifestyle."
+            ],
+            "downloads": {
+              "saleskit": {
+                "url": "https://frn.s3.ftvassets.in/saleskits/license/real-estate/ftv-residences-saleskit.pdf"
+              },
+              "lookbook": {
+                "url": "https://frn.s3.ftvassets.in/look-book/license/real-estate/ftv-residence-look-book.pdf"
+              },
+              "videobook": {
+                "url": "https://frn.s3.ftvassets.in/video-book/license/real-estate/ftv-residences-video-book.mp4"
+              }              
+            },
+            "Images": {
+              "Img_pre": "prerequisite.jpg",
+              "Img_01": "bs-1.jpg",
+              "Img_02": "bs-2.jpg"
+            },
+
+            "Video_contain": {
+              "HeaderPoster": "residences-poster.jpg",
+              "HeaderVideoMobile": "residences-mob.mp4",
+              "HeaderVideoDesktop": "residences-desk.mp4"
+            },
+            "features": [
+              {
+                "title": "Smart Home",
+                "description": "F Residences make use of cutting-edge technology in all its properties. F Residences showcase a high degree of automation as we believe to be a step ahead of ordinary developers and estates and reflect an ultra-modern lifestyle with energy-efficient tools.",
+                "imageURL": "smart-home.jpg"
+              },
+              {
+                "title": "Plush Location",
+                "description": "The location of a luxurious residence is an imperative factor that separates the good from the magnificent. F Residences are located at the most prime locations across the nation and well connected to significant locales in the city with the promise of security and privacy to every resident. ",
+                "imageURL": "plush-locations.jpg"
+              },
+              {
+                "title": "World-class Amenities",
+                "description": "F residences truly provide a splendid living experience with the presence of best-in-class amenities and top-notch services. These residential spaces feature varied amenities such as swimming pools, gymnasiums, clubhouses, tennis courts and gardens apart from the other facilities.",
+                "imageURL": "world-class-amenities.jpg"
+              },
+              {
+                "title": "Capacious Development",
+                "description": "Comfort being a paramount factor of F Residences, it enables you to avoid the clutter and hassles associated with the shortage of space. Well equipped with remarkable expansive spaces and mesmerising views, it gives you value for every cent of your bounty.",
+                "imageURL": "capacious-development.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "F Villas",
+          "slug": "residences/villas",
+          "slug_short": "villas",
+          "brand_details": {
+            "HeaderURLs": {
+              "HeaderImg1": "banner-1.jpg",
+              "HeaderImg2": "banner-2.jpg",
+              "HeaderImg3": "banner-3.jpg"
+            },
+            "introduction": [
+              "F Villas are the bell of the ball when it comes to luxurious stations or impromptu vacations. A creation of FashionTV, this new escapade is yet another milestone for the ever-growing empire of the world's largest fashion and lifestyle media brand.",
+              "When it's about experiencing top-notch luxury, the elite masses look towards FashionTV villas for its breathtaking ambience and out-of-the-box displays that give it the reputation for almost being a state-of-the-art architectural creation.",
+              "Every F Villa Venue comes with the best replicated International Style and extravagance. With opulent interiors, and local and international mouth-watering delicacies at regal in-house eateries combined with an assortment of unrivalled services, F Villas is bound to redefine grandeur in the hospitality industry."
+            ],
+            "downloads": {
+              "saleskit": {
+                "url": "https://frn.s3.ftvassets.in/saleskits/license/real-estate/ftv-villas-saleskit.pdf"
+              },
+              "lookbook": {
+                "url": "https://frn.s3.ftvassets.in/look-book/license/real-estate/ftv-villas-look-book.pdf"
+              },
+              "videobook": {
+                "url": "https://frn.s3.ftvassets.in/video-book/license/real-estate/ftv-villas-video-book.mp4"
+              }
+            },
+            "Images": {
+              "Img_pre": "prerequisite.jpg",
+              "Img_01": "bs-1.jpg",
+              "Img_02": "bs-2.jpg"
+            },
+
+            "Video_contain": {
+              "HeaderPoster": "villa-poster.png",
+              "HeaderVideoMobile": "Real-estate-mob-7.mp4",
+              "HeaderVideoDesktop": "Real-estate-7.mp4"
+            },
+            "features": [
+              {
+                "title": "One-Of-A-Kind Architecture",
+                "description": "FashionTV has a sense of suave in its own right and incorporates it well in the sophisticated designs of F Villas that showcase world-class elegance and beauty.",
+                "imageURL": "one-of-kind.jpg"
+              },
+              {
+                "title": "Luxurious",
+                "description": "F Villas provide an exceptional luxurious lifestyle without compromising on the views, calmness and tranquillity associated with an ideal hotel. One way F Villas distinguished themselves from low and mid-range chains is by carving out an architectural path of their own.",
+                "imageURL": "luxurious.jpg"
+              },
+              {
+                "title": "Friendly And Cordial Staff",
+                "description": "Whether you are pulling up to the entrance or walking into the lobby, every staff member of F Villa will happily welcome you and make you feel significant and make your stay at F Villa a great memory.",
+                "imageURL": "friendly-staff.jpg"
+              },
+              {
+                "title": "Amenities",
+                "description": "F Villas also have fitness and business centres, and a scenic pool and are widely recognised for providing top-quality cuisines to make the stay of its guests memorable.",
+                "imageURL": "amenities.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "F Furnished Apartments",
+          "slug": "residences/furnished-apartments",
+          "slug_short": "furnished-apartments",
+          "brand_details": {
+            "HeaderURLs": {
+              "HeaderImg1": "banner-1.jpg",
+              "HeaderImg2": "banner-2.jpg",
+              "HeaderImg3": "banner-3.jpg"
+            },
+            "introduction": [
+              "Whether you’re working internationally, relocating or traveling with your family, F furnished apartments will bewitch you with space to spread out and provide you with plush amenities to upscale decor. Segregated sleeping, living and working areas along with gourmet kitchens and spacious floor plans to fitness centres, business centres and round the clock house keeping will be good enough to turn your head and once you walk into our palatial and futuristic designs you are bound to sign that contract."
+            ],
+            "downloads": {
+              "saleskit": {
+                "url": "https://frn.s3.ftvassets.in/saleskits/license/real-estate/ftv-furnished-apartments-saleskit.pdf"
+              },
+              "lookbook": {
+                "url": "https://frn.s3.ftvassets.in/look-book/license/real-estate/ftv-furnished-apartments-look-book.pdf"
+              },
+              "videobook": {
+                "url": "https://frn.s3.ftvassets.in/video-book/license/real-estate/ftv-furnished-apartments-video-book.mp4"
+              }
+            },
+            "Images": {
+              "Img_pre": "prerequisite.jpg",
+              "Img_01": "bs-1.jpg",
+              "Img_02": "bs-2.jpg"
+            },
+
+            "Video_contain": {
+              "HeaderPoster": "f-apartment-poster.png",
+              "HeaderVideoMobile": "furnished-mob.mp4",
+              "HeaderVideoDesktop": "furnished-desk.mp4"
+            },
+            "features": [
+              {
+                "title": "NUMEROUS PERKS",
+                "description": "A tower of luxury, a pinnacle of effort, get everything you need and want during your stay with golden furnishings, elegant designs and a modern enigmatic layout to your apartment, it’s always a thing less to do when you move in with us. To help you make the most of your stay and your time, FTV Furnished Apartments offer grocery and laundry services delivered directly to your apartment door.",
+                "imageURL": "numerous-perks.jpg"
+              },
+              {
+                "title": "GOURMET KITCHENS",
+                "description": "When you feel like staying in and just enjoying the company of your loved ones along with your favorite meals FTV Furnished Apartments provides you with your own gourmet kitchen. It includes utensils and appliances and upon request you can send us a list of your favorite food items and delicacies and we’ll rack up the refrigerator with them upon your arrival.",
+                "imageURL": "gourmet-kitchen.jpg"
+              },
+              {
+                "title": "FITNESS CENTRE",
+                "description": "The moving process can be daunting so we recommend our fitness centres, saunas and even indoor pools to blow off steam on a regular basis.",
+                "imageURL": "fitness-center.jpg"
+              },
+              {
+                "title": "VERSATILE FLOOR PLANS",
+                "description": "Residences are available in a range of sizes and floor plans. Select from studios to 3 bedroom apartments with all the amenities of home.",
+                "imageURL": "floor-plans.jpg"
+              },
+              {
+                "title": "HOUSEKEEPING",
+                "description": "Our daily round the clock housekeeping service means all you have to do is wake up and be yourself, go with the flow and carry your day forward while we do the rest in its entirety. No dishes to clean , no bed to make, just a home to live in.",
+                "imageURL": "housekeeping.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "F Outlet Malls",
+          "slug": "commercial-spaces/outlet-malls",
+          "slug_short": "outlet-malls",
+          "brand_details": {
+            "HeaderURLs": {
+              "HeaderImg1": "banner-1.jpg",
+              "HeaderImg2": "banner-2.jpg",
+              "HeaderImg3": "banner-3.jpg"
+            },
+            "introduction": [
+              "Based on the design of ancient architecture and urban luxury and opulent living buyers, F-Malls has introduced an international based concept in India. For a lifestyle that demands richness, thrifters are now looking for a way out of the basic and old shopping experience.",
+              "Decked with intricate decor backed with an optimum luxurious experience, right from shopping to dining, this array of architecture is followed by many ready-to-wear exclusive brands.",
+              "While it pays to be VIP, this ancient shopping method and real-estate rises that represent each brand, has made its way to the modern world bringing authentic buying experience to its high-net worth individuals.",
+              "Making you set aside your day filled with glamour, fine dine and recreational activities this is your luxury haven right on a street, all at a reduced price."
+            ],
+            "downloads": {
+              "saleskit": {
+                "url": "https://frn.s3.ftvassets.in/saleskits/license/real-estate/ftv-outlet-malls-saleskit.pdf"
+              },
+              "lookbook": {
+                "url": "https://frn.s3.ftvassets.in/look-book/license/real-estate/ftv-outlet-malls-look-book.pdf"
+              },
+              "videobook": {
+                "url": "https://frn.s3.ftvassets.in/video-book/license/real-estate/ftv-malls-video-book.mp4"
+              }
+            },
+            "Images": {
+              "Img_pre": "prerequisite.jpg",
+              "Img_01": "bs-1.jpg",
+              "Img_02": "bs-2.jpg"
+            },
+
+            "Video_contain": {
+              "HeaderPoster": "outlet-poster.png",
+              "HeaderVideoMobile": "malls-desk.mp4",
+              "HeaderVideoDesktop": "malls-desk.mp4"
+            },
+            "features": [
+              {
+                "title": "Brands Of Luxury",
+                "description": "F Outlet Malls is an attractive and effective location for customers looking to buy luxury and designer products from all around the world. Moreover, F Outlet Malls will house all F products, making them accessible for buying and consumption.",
+                "imageURL": "luxury-brands.jpg"
+              },
+              {
+                "title": "Wide Variety Of Assortment",
+                "description": "F Outlet Malls is thrilled to state that it provides a diverse range of products and services. Under one roof, you may discover everything, from accessories to apparel, as well as services such as personal care and dining.",
+                "imageURL": "wide-variety.jpg"
+              },
+              {
+                "title": "Pleasant Ambience",
+                "description": "F Outlet Malls guarantees to improve your shopping experience and make you feel more content with our magnificent interiors and astonishing grandeur.",
+                "imageURL": "pleasant-ambience.jpg"
+              },
+              {
+                "title": "One Of A Kind Experience",
+                "description": "F Outlet Malls creates an impeccable experience for our customers who visit the mall by offering premium quality products as well as unmatched services such as entertainment and eating that will satisfy even the most discerning palates.",
+                "imageURL": "kind-experience.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "F Malls",
+          "slug": "commercial-spaces/malls",
+          "slug_short": "malls",
+          "brand_details": {
+            "HeaderURLs": {
+              "HeaderImg1": "banner-1.jpg",
+              "HeaderImg2": "banner-2.jpg",
+              "HeaderImg3": "banner-3.jpg"
+            },
+            "introduction": [
+              "In these times where everyone’s brand conscious and favours buying premium quality products, FashionTV, the world's largest fashion and lifestyle media brand, is presenting their latest work called F Malls. We acknowledge the significance of providing the best, and F Malls is just the place to be. It's a one-stop destination for any and all F products and designer labels from across the world. F Malls seeks to give an unforgettable and above-and-beyond experience to the elite customers through unrivalled services that are beyond comparison."
+            ],
+            "downloads": {
+              "saleskit": {
+                "url": "https://frn.s3.ftvassets.in/saleskits/license/real-estate/ftv-malls-saleskit.pdf"
+              },
+              "lookbook": {
+                "url": "https://frn.s3.ftvassets.in/look-book/license/real-estate/ftv-malls-look-book.pdf"
+              },
+              "videobook": {
+                "url": "https://frn.s3.ftvassets.in/video-book/license/real-estate/ftv-malls-video-book.mp4"
+              }
+            },
+            "Images": {
+              "Img_pre": "prerequisite.jpg",
+              "Img_01": "bs-1.jpg",
+              "Img_02": "bs-2.jpg"
+            },
+
+            "Video_contain": {
+              "HeaderPoster": "malls-poster.png",
+              "HeaderVideoMobile": "malls-desk.mp4",
+              "HeaderVideoDesktop": "malls-desk.mp4"
+            },
+            "features": [
+              {
+                "title": "Brands Of Luxury",
+                "description": "F Malls is an attractive and effective location for customers looking to buy luxury and designer products from all around the world. Moreover, F Malls will house all F products, making them accessible for buying and consumption.",
+                "imageURL": "luxury-brands.jpg"
+              },
+              {
+                "title": "Wide Variety Of Assortment",
+                "description": "F Malls is thrilled to state that it provides a diverse range of products and services. Under one roof, you may discover everything, from accessories to apparel, as well as services such as personal care and dining.",
+                "imageURL": "wide-variety.jpg"
+              },
+              {
+                "title": "Pleasant Ambience",
+                "description": "F Malls guarantees to improve your shopping experience and make you feel more content with our magnificent interiors and astonishing grandeur.",
+                "imageURL": "pleasant-ambience.jpg"
+              },
+              {
+                "title": "One Of A Kind Experience",
+                "description": "F Malls creates an impeccable experience for our customers who visit the mall by offering premium quality products as well as unmatched services such as entertainment and eating that will satisfy even the most discerning palates.",
+                "imageURL": "kind-experience.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "F Bussiness Bay",
+          "slug": "commercial-spaces/business-bay",
+          "slug_short": "business-bay",
+          "brand_details": {
+            "HeaderURLs": {
+              "HeaderImg1": "banner-1.jpg",
+              "HeaderImg2": "banner-2.jpg",
+              "HeaderImg3": "banner-3.jpg"
+            },
+            "introduction": [
+              "Conglomerate spaces, busy environments and hustle-supportive interiors with facilities that make coming to work full of gratitude. F-Business deck signifies excellence through design, opulence, transparency and indulgent working that only enables success and a higher revenue through multiple sources."
+            ],
+            "downloads": {
+              "saleskit": {
+                "url": "https://frn.s3.ftvassets.in/saleskits/license/real-estate/ftv-business-deck-saleskit.pdf"
+              },
+              "lookbook": {
+                "url": "https://frn.s3.ftvassets.in/look-book/license/real-estate/business-deck-look-book.pdf"
+              },
+              "videobook": {
+                "url": " "
+              }
+            },
+            "Images": {
+              "Img_pre": "prerequisite.jpg",
+              "Img_01": "bs-1.jpg",
+              "Img_02": "bs-2.jpg"
+            },
+
+            "Video_contain": {
+              "HeaderPoster": "banner-2.jpg",
+              "HeaderVideoMobile": "ftvbusiness-deck.mp4",
+              "HeaderVideoDesktop": "ftvbusiness-deck.mp4"
+            },
+            "features": [
+              {
+                "title": "Motivation-Driven Designs",
+                "description": "The number one reason people step foot or even sign up to work in a business environment is due to its culture when it comes to designs, aesthetics and the energy it brings. Ace the foundation of a successful business space with F-Business Deck.",
+                "imageURL": "motivation-designs.jpg"
+              },
+              {
+                "title": "Complete Facilital Experience",
+                "description": "From hospitality to services that include the likes of an in-house cafeteria, mini after-work bars, business lunches and tracks that allow a full restorative vibe.",
+                "imageURL": "facilital-experience.jpg"
+              },
+              {
+                "title": "Spacious and Beautiful Office Spaces",
+                "description": "From cabins, to meeting rooms, and transitional spaces covered in glass, grass and everything in between - the idea of elevating working and conquering the complete external value of your office space is here.",
+                "imageURL": "beautifu-office-spaces.jpg"
+              },
+              {
+                "title": "Inclusive Wellness and Recreational Spots",
+                "description": "Standing out from the rest of the business parks, FTV Business Deck includes Wellness spaces such as Gyms, Yoga sessions and tracks with gardens and stroll-worthy spots engraved within.",
+                "imageURL": "inclusive-wellness.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "F Lifestyle Bay",
+          "slug": "commercial-spaces/lifestyle-bay",
+          "slug_short": "lifestyle-bay",
+          "brand_details": {
+            "HeaderURLs": {
+              "HeaderImg1": "banner-1.jpg",
+              "HeaderImg2": "banner-2.jpg",
+              "HeaderImg3": "banner-3.jpg"
+            },
+            "introduction": [
+              "A mall establishes the worth for many names, which signifies their brand through their presence setting their stand and limelight in the eye of the customers. But, as a specially curated isle in the name of fashion and lifestyle in the form of F-Lifestyle Bay, is an initiative to gather the top best-selling lifestyle brands, only elevating and enhancing their brand value.",
+              "F-Lifestyle Bay is an introduction to an unimaginable space that only relates to those who only want to discover and explore the world of Fashion and Lifestyle"
+            ],
+            "downloads": {
+              "saleskit": {
+                "url": "https://frn.s3.ftvassets.in/saleskits/license/real-estate/ftv-lifestylebay-saleskit.pdf"
+              },
+              "lookbook": {
+                "url": "https://frn.s3.ftvassets.in/look-book/license/real-estate/ftv-lifestylebay-look-book.pdf"
+              },
+              "videobook": {
+                "url": " "
+              }
+            },
+            "Images": {
+              "Img_pre": "prerequisite.jpg",
+              "Img_01": "bs-1.jpg",
+              "Img_02": "bs-2.jpg"
+            },
+
+            "Video_contain": {
+              "HeaderPoster": "banner-3.jpg",
+              "HeaderVideoMobile": "ftvlifestyle-bay.mp4",
+              "HeaderVideoDesktop": "ftvlifestyle-bay.mp4"
+            },
+            "features": [
+              {
+                "title": "Curated Selection Of International Brands",
+                "description": "The meticulously selected choice of lifestyle brands that aim to deliver a complete luxurious experience ranging from every essential to highend need.",
+                "imageURL": "curated-selection.jpg"
+              },
+              {
+                "title": "Captivating Experience",
+                "description": "An isle specifically designed and allocated, with stores followed up one after the other to create a captivating experience for the buyer and the developer.",
+                "imageURL": "captivating-experience.jpg"
+              },
+              {
+                "title": "Oasis Of Fashion TV",
+                "description": "Under one name, comes many. An oasis of invention and discovery with and by a name such as F-Lifestyle Bay, making it a sanctuary for the best of brands.",
+                "imageURL": "oasis.jpg"
+              },
+              {
+                "title": "An Exclusive Collaboration",
+                "description": "Everything that falls under Fashion and Lifestyle only, making it a collaboration that paves the way for growth and elevation.",
+                "imageURL": "exclusive-collaboration.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "F Co-working Spaces",
+          "slug": "commercial-spaces/co-works",
+          "slug_short": "co-works",
+          "brand_details": {
+            "HeaderURLs": {
+              "HeaderImg1": "banner-1.jpg",
+              "HeaderImg2": "banner-2.jpg",
+              "HeaderImg3": "banner-3.jpg"
+            },
+            "introduction": [
+              "Matching efficiency while working is essential to yielding good outcomes at the end of the day. Something similar happens in our workspace. Helmed by the intense adherence to redefining workspace experiences, F Co-Works is the most preeminent coworking space in the nation built for aspiring entrepreneurs and organisations to fulfil their growing business needs.",
+              "Nestled at prime locations across the city close to lively neighbourhoods, F Co-Works comes with world-class infrastructure, and amenities combined with latest cutting-edge technology that energies productivity, enriches focus and raises the bar of efficacy and motivation at work.",
+              "F Co-Works also facilitates collaborative and networking opportunities with the most elite business leaders and organizations opening multiple doors of growth for every individual choosing to work at F Co-Works. In the pursuit of transforming the future, F Co-Works is constantly looking out for innovative ways to enhance the working experience of our esteemed members."
+            ],
+            "downloads": {
+              "saleskit": {
+                "url": "https://frn.s3.ftvassets.in/saleskits/license/real-estate/ftv-co-works-saleskit.pdf"
+              },
+              "lookbook": {
+                "url": "https://frn.s3.ftvassets.in/look-book/license/real-estate/ftv-co-works-look-book.pdf"
+              },
+              "videobook": {
+                "url": "https://frn.s3.ftvassets.in/video-book/license/real-estate/ftv-commercial-spaces-video-book.mp4"
+              }
+            },
+            "Images": {
+              "Img_pre": "prerequisite.jpg",
+              "Img_01": "bs-1.jpg",
+              "Img_02": "bs-2.jpg"
+            },
+
+            "Video_contain": {
+              "HeaderPoster": "coworks-poster.png",
+              "HeaderVideoMobile": "coworking-office.mp4",
+              "HeaderVideoDesktop": "coworking-office.mp4"
+            },
+            "features": [
+              {
+                "title": "Illustrious design and ambience",
+                "description": "FTV Co-Works have thoughtfully designed workstations and interiors that cater to the comfortability factor of working professionals, enhance their focus and inspire them to bring out their best at work.",
+                "imageURL": "illustrious-design.jpg"
+              },
+              {
+                "title": "Dedicated workspace ",
+                "description": "FTV Co Works offers a dedicated workspace for every organisation, irrespective of their size, granting their team members to focus on tasks at hand with minimal distractions. ",
+                "imageURL": "dedicated-workplace.jpg"
+              },
+              {
+                "title": "High technology deployment ",
+                "description": "FTV Co-Works is well equipped with the most outstanding technology that helps ventures and entrepreneurs uplift their productivity with all the necessary amenities and robust support at their disposal.",
+                "imageURL": "high-technology.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "F Resorts",
+          "slug": "hospitality/resorts",
+          "slug_short": "resorts",
+          "brand_details": {
+            "HeaderURLs": {
+              "HeaderImg1": "banner-1.jpg",
+              "HeaderImg2": "banner-2.jpg",
+              "HeaderImg3": "banner-3.jpg"
+            },
+            "introduction": [
+              "FTV Resorts is a ginormous resort development all over the country. Every aspect of the FTV Resorts are a product of an integrated development and construction strategy designed to create the Nation’s best getaway destination. Luxury redefined, both contemporary and elegant, convenient and surprising, sustainable and scenic. FTV Resorts is part of a new generation of luxury resorts and stays: inspired to be astounding."
+            ],
+            "downloads": {
+              "saleskit": {
+                "url": "https://frn.s3.ftvassets.in/saleskits/license/real-estate/ftv-resorts-saleskit.pdf"
+              },
+              "lookbook": {
+                "url": "https://frn.s3.ftvassets.in/look-book/license/real-estate/ftv-resort-look-book.pdf"
+              },
+              "videobook": {
+                "url": "https://frn.s3.ftvassets.in/video-book/license/real-estate/ftv-resorts-video-book.mp4"
+              }
+            },
+            "Images": {
+              "Img_pre": "prerequisite.jpg",
+              "Img_01": "bs-1.jpg",
+              "Img_02": "bs-2.jpg"
+            },
+
+            "Video_contain": {
+              "HeaderPoster": "resort-poster.jpg",
+              "HeaderVideoMobile": "resort-desk.mp4",
+              "HeaderVideoDesktop": "resort-desk.mp4"
+            },
+            "features": [
+              {
+                "title": "Design",
+                "description": "In FTV Resorts you’ll find everything from the exterior, the reception, lounge and all other public areas will have an appealing and fancy design. We pride ourselves on being in the top 1% when it comes to Layout, Outlook and Decor. You may feel like you are somewhere special or are someone special at all times during your stay.",
+                "imageURL": "design.jpg"
+              },
+              {
+                "title": "Grand Rooms",
+                "description": "FTV Resorts have the most beautiful rooms designed in accordance to the genre or local destinations following the trend set by our luxurious brand FASHIONTV. The rooms are cozy, and you would find it extremely difficult to resist from spending time in your little haven.",
+                "imageURL": "grand-rooms.jpg"
+              },
+              {
+                "title": "Amenities",
+                "description": "Rooms will almost definitely come with lots of amenities and everything you’d probably need. The amenities may include robes, slippers, coffee machines, large TV with lots of channels, spacious desks, minibars, lots of towels, high-quality toiletries and more.",
+                "imageURL": "amenitites.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "F House",
+          "slug": "hospitality/house",
+          "slug_short": "house",
+          "brand_details": {
+            "HeaderURLs": {
+              "HeaderImg1": "banner-1.jpg",
+              "HeaderImg2": "banner-2.jpg",
+              "HeaderImg3": "banner-3.jpg"
+            },
+            "introduction": [
+              "Every distinguished personality needs a space to interact and network with the nation's other prominent figures, and FashionTV offers this by having established the magnificent F-House for the elite. ",
+              "We provide a luxurious experience for all the fashionistas, epicureans and revellers from all over the city, allowing them to transcend the stresses of contemporary life and unwind in a lavish and stunning atmosphere. ",
+              "Discover a new approach to partying and socialising while unwinding with the essence of FashionTV, packed with luxury and elegance all under one roof as whatever it is that you’re looking for, we’ve got it! From exhilarating NiteLife and glamorous fashion events to mellow yet high-spirited brunches, there's no place superior to F-House."
+            ],
+            "downloads": {
+              "saleskit": {
+                "url": "https://frn.s3.ftvassets.in/saleskits/franchise/extras/ftv-house-saleskit.pdf"
+              },
+              "lookbook": {
+                "url": "https://frn.s3.ftvassets.in/look-book/franchise/extras/ftv-house-look-book.pdf"
+              },
+              "videobook": {
+                "url": "https://frn.s3.ftvassets.in/video-book/license/real-estate/ftv-house-license-video-book.mp4"
+              }
+            },
+            "Images": {
+              "Img_pre": "prerequisite.jpg",
+              "Img_01": "bs-1.jpg",
+              "Img_02": "bs-2.jpg"
+            },
+            "Video_contain": {
+              "HeaderPoster": "house-poster.png",
+              "HeaderVideoMobile": "fhouse-desk.mp4",
+              "HeaderVideoDesktop": "fhouse-desk.mp4"
+            },
+            "features": [
+              {
+                "title": "Member Privileges",
+                "description": "Once a member of F-House, you have access to all of the upgraded and exclusive amenities. In addition, there are numerous incentives and special privileges for all our members to F-House’s extravagant and mind-blowing events, eateries, nightlife and retail stores. ",
+                "imageURL": "member-privilege.jpg"
+              },
+              {
+                "title": "F-house Facilities",
+                "description": "F-House provides its guests with a numerous and diverse range of facilities that include Michelin star dining experience at our restaurants, lounges, niteclubs all the while being a hub to glamorous and fashionable events and emporiums. Thereby, F-House offers a space for our diverse guest list that is exemplary to explore, relax and revel.",
+                "imageURL": "facilities.jpg"
+              },
+              {
+                "title": "Art in the House",
+                "description": "We assure that your leisure experiences will be enhanced and that you wouldn’t have seen anything more stunning than the  F-House owing to our state of the art architecture, breathtaking ambiance, decor and great grandeur.",
+                "imageURL": "art-house.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "F Hotels",
+          "slug": "hospitality/hotels",
+          "slug_short": "hotels",
+          "brand_details": {
+            "HeaderURLs": {
+              "HeaderImg1": "banner-1.jpg",
+              "HeaderImg2": "banner-2.jpg",
+              "HeaderImg3": "banner-3.jpg"
+            },
+            "introduction": [
+              "FTV Hotels are the bell of the ball when it comes to luxurious stations or impromptu vacations. A creation of FashionTV, this new escapade is yet another milestone for the ever-growing empire of the world's largest fashion and lifestyle media brand.",
+              "When it's about experiencing top-notch luxury, the elite masses look towards FashionTV Hotels for its breathtaking ambience and out-of-the-box displays that give it the reputation for almost being a state-of-the-art architectural creation.",
+              "Every FTV Hotel Venue comes with the best replicated International Style and extravagance. With opulent interiors, and local and international mouth-watering delicacies at regal in-house eateries combined with an assortment of unrivalled services, FTV Hotels is bound to redefine grandeur in the hospitality industry."
+            ],
+            "downloads": {
+              "saleskit": {
+                "url": "https://frn.s3.ftvassets.in/saleskits/franchise/extras/ftv-hotels-sales-kit.pdf"
+              },
+              "lookbook": {
+                "url": "https://frn.s3.ftvassets.in/look-book/license/real-estate/ftv-hotel-look-book.pdf"
+              },
+              "videobook": {
+                "url": "https://frn.s3.ftvassets.in/video-book/license/real-estate/Hotels.mp4"
+              }
+            },
+            "Images": {
+              "Img_pre": "prerequisite.jpg",
+              "Img_01": "bs-1.jpg",
+              "Img_02": "bs-2.jpg"
+            },
+
+            "Video_contain": {
+              "HeaderPoster": "hotels-poster.png",
+              "HeaderVideoMobile": "hotel-desk.mp4",
+              "HeaderVideoDesktop": "hotel-desk.mp4"
+            },
+            "features": [
+              {
+                "title": "One-Of-A-Kind Architecture",
+                "description": "FashionTV has a sense of suave in its own right and incorporates it well in the sophisticated designs of FTV Hotels that showcase world-class elegance and beauty.",
+                "imageURL": "architecture.jpg"
+              },
+              {
+                "title": "Luxurious",
+                "description": "FTV Hotels provide an exceptional luxurious lifestyle without compromising on the views, calmness and tranquillity associated with an ideal hotel. One way FTV hotels distinguished themselves from low and mid-range chains is by carving out an architectural path of their own.",
+                "imageURL": "luxurious.jpg"
+              },
+              {
+                "title": "Friendly And Cordial Staff",
+                "description": "Whether you are pulling up to the entrance or walking into the lobby, every staff member of FTV Hotel will happily welcome you and make you feel significant and make your stay at FTV Hotel a great memory.",
+                "imageURL": "friendly-staff.jpg"
+              },
+              {
+                "title": "Amenities",
+                "description": "FTV Hotels also have fitness and business centres, and a scenic pool and are widely recognised for providing top-quality cuisines to make the stay of its guests memorable.",
+                "imageURL": "amenities.jpg"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "FTV Real Estate",
+      "sub": [
+        {
+          "name": "FTV Residences",
+          "slug": "",
+          "brand_details": {
+            "HeaderURLs": {
+              "HeaderImg1": "residences-poster.jpg",
+              "HeaderImg2": "test.mp4",
+              "HeaderImg3": "test.mp4"
+            },
+            "introduction": [""],
+            "downloads": {
+              "saleskit": {
+                "title": "Sales Kit",
+                "url": ""
+              },
+              "lookbook": {
+                "title": "Sales Kit",
+                "url": ""
+              },
+              "videobook": {
+                "title": "Sales Kit",
+                "url": ""
+              }
+            },
+            "Images": {
+              "Img_pre": "prerequisite.jpg",
+              "Img_01": "",
+              "Img_02": ""
+            },
+            "Video_contain": {
+              "HeaderPoster": "residences-poster.jpg",
+              "HeaderVideoMobile": "residences-mob.mp4",
+              "HeaderVideoDesktop": "residences-desk.mp4"
+            },
+            "features": [
+              {
+                "title": "",
+                "description": "",
+                "imageURL": ""
+              },
+              {
+                "title": "",
+                "description": "",
+                "imageURL": ""
+              },
+              {
+                "title": "",
+                "description": "",
+                "imageURL": ""
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
